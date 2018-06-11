@@ -9,7 +9,7 @@ function displayVariables() {
 
   console.log('a inside function', a); // 2
   console.log('b inside function', b); // 3
-  console.log('c inside function', c); // 4
+  console.log('c inside function', c); // 4   //
 }
 
 displayVariables();
